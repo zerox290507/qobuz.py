@@ -1,1 +1,8 @@
 flask
+pathvalidate
+requests
+mutagen
+tqdm
+pickle==1.6.0
+beautifulsoup4
+colorama
